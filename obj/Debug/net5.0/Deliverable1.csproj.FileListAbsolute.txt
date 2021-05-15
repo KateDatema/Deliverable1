@@ -1,0 +1,15 @@
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/Deliverable1.deps.json
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/Deliverable1.runtimeconfig.json
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/Deliverable1.runtimeconfig.dev.json
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/Deliverable1.dll
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/ref/Deliverable1.dll
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/bin/Debug/net5.0/Deliverable1.pdb
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.csprojAssemblyReference.cache
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.AssemblyInfoInputs.cache
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.AssemblyInfo.cs
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.csproj.CoreCompileInputs.cache
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.dll
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/ref/Deliverable1.dll
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.pdb
+/Users/katedatema/Documents/Grand_Circus/Deliverable1/obj/Debug/net5.0/Deliverable1.genruntimeconfig.cache
